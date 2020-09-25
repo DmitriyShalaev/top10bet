@@ -1,0 +1,284 @@
+HTTrack3.49-2 launched on Fri, 25 Sep 2020 12:48:01 at https://www.top5arabcasinos.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://www.top5arabcasinos.com/ -O "/home/illuschwo/websites/top5arabcasinos.com" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:48:03	Warning: 	Note: due to https://www.top5arabcasinos.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/, /ufaqs/, /author/ (see in the options to disable this)
+12:49:35	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from https://www.top5arabcasinos.com/)
+12:49:36	Warning: 	Note: due to s.w.org remote robots.txt rules, links beginning with these path will be forbidden: /search, /support/rss, /archive/, /?filters (see in the options to disable this)
+12:49:36	Warning: 	Moved Permanently for s.w.org/
+12:49:36	Warning: 	File has moved from s.w.org/ to https://wordpress.org/
+12:52:46	Warning: 	Link https://www.top5arabcasinos.com/ar3-index-ar.html not scanned (follow robots meta tag)
+12:54:10	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=405
+12:54:10	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=405 to https://www.top5arabcasinos.com/%d8%a7%d9%84%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88-%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b4%d8%b1/
+12:54:20	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1153
+12:54:20	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1153 to https://www.top5arabcasinos.com/%d8%a7%d9%84%d8%b9%d8%a7%d8%a8-%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88/
+12:54:21	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=396
+12:54:21	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=396 to https://www.top5arabcasinos.com/%d8%b1%d9%88%d9%84%d9%8a%d8%aa/
+12:54:22	Warning: 	Found for https://www.top5arabcasinos.com/البلاك-جاك/
+12:54:22	Warning: 	File has moved from https://www.top5arabcasinos.com/البلاك-جاك/ to https://www.top5arabcasinos.com/بلاك-جاك/
+12:54:22	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=447
+12:54:22	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=447 to https://www.top5arabcasinos.com/%d8%a8%d9%84%d8%a7%d9%83-%d8%ac%d8%a7%d9%83/
+12:54:23	Warning: 	Found for https://www.top5arabcasinos.com/الروليت/
+12:54:23	Warning: 	File has moved from https://www.top5arabcasinos.com/الروليت/ to https://www.top5arabcasinos.com/روليت/
+12:54:23	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1237
+12:54:23	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1237 to https://www.top5arabcasinos.com/%d9%85%d8%a7%d9%83%d9%8a%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d9%82%d9%85%d8%a7%d8%b1/
+12:54:24	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1275
+12:54:24	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1275 to https://www.top5arabcasinos.com/%d8%a8%d8%a7%d9%83%d8%a7%d8%b1%d8%a7%d9%87/
+12:54:25	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1475
+12:54:25	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1475 to https://www.top5arabcasinos.com/%d8%a8%d9%84%d9%88%d8%aa/
+12:54:26	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1555
+12:54:26	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1555 to https://www.top5arabcasinos.com/%d8%b7%d8%b1%d9%86%d9%8a%d8%a8/
+12:54:27	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1596
+12:54:27	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1596 to https://www.top5arabcasinos.com/backgammon/
+12:54:28	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1376
+12:54:28	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1376 to https://www.top5arabcasinos.com/poker/
+12:54:29	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1522
+12:54:29	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1522 to https://www.top5arabcasinos.com/%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88-%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d9%84/
+12:54:42	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=759
+12:54:42	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=759 to https://www.top5arabcasinos.com/%d8%a8%d9%8a%d8%aa%d9%83%d9%88%d9%8a%d9%86-%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88/
+12:54:43	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=432
+12:54:43	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=432 to https://www.top5arabcasinos.com/%d9%85%d9%83%d8%a7%d9%81%d8%a2%d8%aa-%d8%a7%d9%84%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88/
+12:54:44	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=817
+12:54:44	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=817 to https://www.top5arabcasinos.com/%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88-%d8%a7%d9%84%d9%85%d8%a7%d9%84-%d8%a7%d9%84%d8%ad%d9%82%d9%8a%d9%82%d9%8a/
+12:54:45	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=468
+12:54:45	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=468 to https://www.top5arabcasinos.com/%d8%a7%d9%84%d8%a5%d9%8a%d8%af%d8%a7%d8%b9-%d9%88%d8%a7%d9%84%d8%b3%d8%ad%d8%a8/
+12:54:46	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=897
+12:54:46	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=897 to https://www.top5arabcasinos.com/payeer/
+12:54:48	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=842
+12:54:48	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=842 to https://www.top5arabcasinos.com/astropay/
+12:54:49	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1122
+12:54:49	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1122 to https://www.top5arabcasinos.com/ecopayz/
+12:54:50	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1390
+12:54:50	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1390 to https://www.top5arabcasinos.com/%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88/
+12:56:22	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=451
+12:56:22	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=451 to https://www.top5arabcasinos.com/%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa-%d8%b9%d9%8e%d9%86%d8%a7/
+12:56:23	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1645
+12:56:23	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1645 to https://www.top5arabcasinos.com/%d8%a7%d9%84%d9%88%d8%b3%d8%a7%d8%a6%d9%84-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%a9/
+12:56:24	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1622
+12:56:24	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1622 to https://www.top5arabcasinos.com/%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88-%d9%84%d8%a8%d9%86%d8%a7%d9%86/
+12:56:25	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1503
+12:56:25	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1503 to https://www.top5arabcasinos.com/%d9%84%d8%b9%d8%a8%d8%a9-gta-%d8%a7%d8%b3%d8%aa%d8%ba%d9%84-%d8%ab%d8%ba%d8%b1%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88-%d9%88%d8%a7%d8%ad%d8%b5%d9%84-%d8%b9%d9%84%d9%89-%d8%a3%d9%85/
+12:56:26	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1456
+12:56:26	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1456 to https://www.top5arabcasinos.com/%d9%85%d8%aa%d8%b5%d9%81%d8%ad-tor/
+12:56:29	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1422
+12:56:29	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1422 to https://www.top5arabcasinos.com/%d9%84%d8%a7%d8%b9%d8%a8%d9%88-%d8%a7%d9%84%d8%a8%d9%88%d9%83%d8%b1-%d8%b4%d8%b1%d9%82-%d8%a3%d9%88%d8%b3%d8%b7/
+12:56:30	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1193
+12:56:30	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1193 to https://www.top5arabcasinos.com/10bet/
+12:56:30	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/10bet/amp/
+12:56:30	Warning: 	File has moved from https://www.top5arabcasinos.com/10bet/amp/ to https://www.top5arabcasinos.com/10bet/
+12:56:30	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/muchbetter-casinos/ (from https://www.top5arabcasinos.com/10bet/)
+12:56:30	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1360
+12:56:30	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1360 to https://www.top5arabcasinos.com/bet365/
+12:56:30	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/bet365/amp/
+12:56:30	Warning: 	File has moved from https://www.top5arabcasinos.com/bet365/amp/ to https://www.top5arabcasinos.com/bet365/
+12:56:30	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=639
+12:56:30	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=639 to https://www.top5arabcasinos.com/bwin/
+12:56:30	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/bwin/amp/
+12:56:30	Warning: 	File has moved from https://www.top5arabcasinos.com/bwin/amp/ to https://www.top5arabcasinos.com/bwin/
+12:56:30	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=800
+12:56:30	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=800 to https://www.top5arabcasinos.com/888-casino/
+12:56:30	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/888-casino/amp/
+12:56:30	Warning: 	File has moved from https://www.top5arabcasinos.com/888-casino/amp/ to https://www.top5arabcasinos.com/888-casino/
+12:56:30	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1403
+12:56:30	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1403 to https://www.top5arabcasinos.com/betfinal/
+12:56:30	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/betfinal/amp/
+12:56:30	Warning: 	File has moved from https://www.top5arabcasinos.com/betfinal/amp/ to https://www.top5arabcasinos.com/betfinal/
+12:56:30	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1634
+12:56:30	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1634 to https://www.top5arabcasinos.com/1xbet/
+12:56:30	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/1xbet/amp/
+12:56:30	Warning: 	File has moved from https://www.top5arabcasinos.com/1xbet/amp/ to https://www.top5arabcasinos.com/1xbet/
+12:56:30	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1213
+12:56:30	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1213 to https://www.top5arabcasinos.com/spin-casino/
+12:56:30	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/spin-casino/amp/
+12:56:30	Warning: 	File has moved from https://www.top5arabcasinos.com/spin-casino/amp/ to https://www.top5arabcasinos.com/spin-casino/
+12:56:30	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1219
+12:56:30	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1219 to https://www.top5arabcasinos.com/%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1-%d8%a7%d9%84%d8%a8%d9%8a%d8%aa%d9%83%d9%88%d9%8a%d9%86-%d9%88%d8%a7%d9%84%d8%b9%d9%85%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%8a%d8%a9/
+12:56:31	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1130
+12:56:31	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1130 to https://www.top5arabcasinos.com/?post_type=affiliates&p=1130
+12:56:31	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/casinos/888casino/
+12:56:31	Warning: 	File has moved from https://www.top5arabcasinos.com/casinos/888casino/ to https://www.top5arabcasinos.com/888-casino/
+12:56:31	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/casinos/888casino/amp/
+12:56:31	Warning: 	File has moved from https://www.top5arabcasinos.com/casinos/888casino/amp/ to https://www.top5arabcasinos.com/casinos/888casino/
+12:56:31	Warning: 	File not parsed, looks like binary: https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/admin.php
+12:56:31	Error: 	"Forbidden" (403) at link https://www.top5arabcasinos.com/wp-login.php?action=logout&_wpnonce=b3476c338d (from https://www.top5arabcasinos.com/888casino.html)
+12:56:40	Error: 	"Not Found" (404) at link https://cdn.ampproject.org/ (from https://www.top5arabcasinos.com/الكازينو-المباشر/?amp)
+12:56:40	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=773
+12:56:40	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=773 to https://www.top5arabcasinos.com/%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88-vpn/
+12:56:42	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1026
+12:56:42	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1026 to https://www.top5arabcasinos.com/%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d8%aa%d9%8f%d8%b9%d8%aa%d8%a8%d9%91%d9%8e%d8%b1-%d8%a3%d9%84%d8%b9%d8%a7%d8%a8-%d9%84%d8%a7%d9%8a%d9%81-%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88-%d9%87%d9%8a-%d8%a7%d9%84/
+12:56:43	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1348
+12:56:43	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1348 to https://www.top5arabcasinos.com/marina-bay-sands-casino/
+12:56:44	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1332
+12:56:44	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1332 to https://www.top5arabcasinos.com/%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d8%aa%d9%8a%d8%ac%d9%8a%d8%a9-%d8%b1%d9%88%d9%84%d9%8a%d8%aa/
+12:56:45	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1185
+12:56:45	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1185 to https://www.top5arabcasinos.com/mayfair-casinos/
+12:56:46	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1107
+12:56:46	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1107 to https://www.top5arabcasinos.com/%d9%87%d9%84-%d9%87%d9%86%d8%a7%d9%83-%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88-%d9%83%d8%b1%d9%88%d8%b2-%d9%84%d9%84%d8%a7%d8%b9%d8%a8%d9%8a-%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac-%d8%a7%d9%84%d8%b9%d8%b1/
+12:56:47	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1053
+12:56:47	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1053 to https://www.top5arabcasinos.com/%d9%83%d9%8a%d9%81-%d8%aa%d9%84%d8%b9%d8%a8-%d8%a8%d9%84%d8%a7%d9%83-%d8%ac%d8%a7%d9%83/
+12:56:48	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1040
+12:56:48	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1040 to https://www.top5arabcasinos.com/%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88-%d8%b1%d9%88%d9%8a%d8%a7%d9%84/
+12:56:49	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1033
+12:56:49	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1033 to https://www.top5arabcasinos.com/%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d8%a3%d9%8f%d9%81%d8%b6%d9%91%d9%90%d9%84-%d8%a7%d9%84%d9%84%d8%b9%d8%a8-%d9%81%d9%8a-%d9%84%d8%a7%d9%8a%d9%81-%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88%d8%9f/
+12:56:50	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1004
+12:56:50	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1004 to https://www.top5arabcasinos.com/%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88-%d8%af%d8%a8%d9%8a/
+12:56:51	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=965
+12:56:51	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=965 to https://www.top5arabcasinos.com/%d9%83%d9%8a%d9%81-%d8%aa%d9%84%d8%b9%d8%a8-%d8%a7%d9%84%d8%b1%d9%88%d9%84%d9%8a%d8%aa/
+12:56:52	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=885
+12:56:52	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=885 to https://www.top5arabcasinos.com/%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae-%d8%a7%d9%84%d8%b9%d8%a7%d8%a8-%d8%a7%d9%84%d9%82%d9%85%d8%a7%d8%b1/
+12:56:53	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=866
+12:56:53	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=866 to https://www.top5arabcasinos.com/%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88-%d9%85%d9%88%d8%b3%d9%83%d9%88/
+12:56:54	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=856
+12:56:54	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=856 to https://www.top5arabcasinos.com/%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88-%d8%ac%d9%88%d8%b1%d8%ac%d9%8a%d8%a7/
+12:56:55	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=831
+12:56:55	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=831 to https://www.top5arabcasinos.com/%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88-%d8%a7%d9%8a%d9%81%d9%88%d9%86/
+12:56:56	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=703
+12:56:56	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=703 to https://www.top5arabcasinos.com/%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88%d9%87%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/
+12:56:57	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=557
+12:56:57	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=557 to https://www.top5arabcasinos.com/%d8%a7%d9%84%d8%a5%d9%8a%d8%af%d8%a7%d8%b9-%d9%81%d9%8a-%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88%d9%87%d8%a7%d8%aa-%d8%a7%d9%84%d8%a5%d9%86%d8%aa%d8%b1%d9%86%d8%aa/
+12:56:58	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=554
+12:56:58	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=554 to https://www.top5arabcasinos.com/%d9%83%d9%8a%d9%81-%d9%86%d9%82%d9%88%d9%85-%d8%a8%d8%aa%d8%b5%d9%86%d9%8a%d9%81-%d9%85%d9%88%d8%a7%d9%82%d8%b9-%d8%a7%d9%84%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88%d8%9f/
+12:56:59	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=532
+12:56:59	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=532 to https://www.top5arabcasinos.com/%d9%83%d9%8a%d9%81-%d9%8a%d8%aa%d9%85-%d8%aa%d8%b4%d8%ba%d9%8a%d9%84-%d9%84%d8%a7%d9%8a%d9%81-%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88%d8%9f/
+12:57:00	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?post_type=affiliates%26p=1130
+12:57:00	Warning: 	File has moved from https://www.top5arabcasinos.com/?post_type=affiliates%26p=1130 to https://www.top5arabcasinos.com/?post_type=affiliates%26p%3D1130
+12:57:02	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/category/مقالات-الكازينو/page/1/
+12:57:02	Warning: 	File has moved from https://www.top5arabcasinos.com/category/مقالات-الكازينو/page/1/ to https://www.top5arabcasinos.com/category/%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88/
+12:57:06	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/OPR/ (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/saved_resource.html)
+12:57:06	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/pinghub/ (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/saved_resource.html)
+12:57:06	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/GET (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/saved_resource.html)
+12:57:06	Warning: 	HTML file (197532 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/feed/
+12:57:06	Warning: 	HTML file (948 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/comments/feed/
+12:57:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.top5arabcasinos.com/xmlrpc.php?rsd
+12:57:39	Warning: 	HTML file (991 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/معلومات-عَنا/feed/
+12:57:39	Warning: 	HTML file (1060 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/كازينو-لبنان/feed/
+12:57:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://pixel.wp.com/g.gif?v=ext&j=1%3A8.9.1&blog=167859852&post=1522&tz=3&srv=www.top5arabcasinos.com&host=www.top5arabcasinos.com&rand=RANDOM&ref=DOCUMENT_REFERRER
+12:58:03	Warning: 	HTML file (42722 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/category/طريقة-الدفع/feed/
+12:58:14	Warning: 	HTML file (1060 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/كازينو-رويال/feed/
+12:58:16	Warning: 	HTML file (58555 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/متصفح-tor/
+12:58:17	Warning: 	HTML file (1176 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/تاريخ-العاب-القمار/feed/
+12:58:19	Warning: 	HTML file (1060 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/كازينو-موسكو/feed/
+12:58:20	Warning: 	HTML file (1060 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/كازينو-ايفون/feed/
+12:58:22	Warning: 	HTML file (1234 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/كازينوهات-العرب-اون-لاين/feed/
+12:58:24	Warning: 	HTML file (63364 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/spin-casino/
+12:58:25	Warning: 	HTML file (168357 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/category/مقالات-الكازينو/feed/
+12:58:26	Warning: 	HTML file (8821 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/category/أخبار/feed/
+12:58:28	Warning: 	HTML file (190602 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/category/دليل/feed/
+12:58:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://pixel.wp.com/g.gif?v=ext&j=1%3A8.9.1&blog=167859852&post=451&tz=3&srv=www.top5arabcasinos.com&host=www.top5arabcasinos.com&rand=RANDOM&ref=DOCUMENT_REFERRER
+12:58:31	Warning: 	HTML file (947 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/?p=405
+12:58:32	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=405
+12:58:32	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=405 to https://www.top5arabcasinos.com/%d8%a7%d9%84%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88-%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b4%d8%b1/
+12:58:32	Warning: 	HTML file (854 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/الروليت/
+12:58:33	Warning: 	Found for https://www.top5arabcasinos.com/الروليت/
+12:58:33	Warning: 	File has moved from https://www.top5arabcasinos.com/الروليت/ to https://www.top5arabcasinos.com/روليت/
+12:58:33	Warning: 	HTML file (851 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/?p=1275
+12:58:34	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1275
+12:58:34	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1275 to https://www.top5arabcasinos.com/%d8%a8%d8%a7%d9%83%d8%a7%d8%b1%d8%a7%d9%87/
+12:58:34	Warning: 	HTML file (913 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/?p=1522
+12:58:35	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1522
+12:58:35	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1522 to https://www.top5arabcasinos.com/%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88-%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d9%84/
+12:58:35	Warning: 	HTML file (935 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/?p=432
+12:58:36	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=432
+12:58:36	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=432 to https://www.top5arabcasinos.com/%d9%85%d9%83%d8%a7%d9%81%d8%a2%d8%aa-%d8%a7%d9%84%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88/
+12:58:36	Warning: 	HTML file (937 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/?p=1390
+12:58:37	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1390
+12:58:37	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1390 to https://www.top5arabcasinos.com/%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88/
+12:58:37	Warning: 	HTML file (59500 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/الإيداع-في-كازينوهات-الإنترنت/
+12:58:39	Warning: 	HTML file (899 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/?p=451
+12:58:40	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=451
+12:58:40	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=451 to https://www.top5arabcasinos.com/%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa-%d8%b9%d9%8e%d9%86%d8%a7/
+12:58:40	Warning: 	HTML file (901 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/?p=1622
+12:58:42	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1622
+12:58:42	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1622 to https://www.top5arabcasinos.com/%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88-%d9%84%d8%a8%d9%86%d8%a7%d9%86/
+12:58:42	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.top5arabcasinos.com/ar3-index-ar.html)
+12:58:42	Warning: 	HTML file (1145 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/?p=1219
+12:58:43	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1219
+12:58:43	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1219 to https://www.top5arabcasinos.com/%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1-%d8%a7%d9%84%d8%a8%d9%8a%d8%aa%d9%83%d9%88%d9%8a%d9%86-%d9%88%d8%a7%d9%84%d8%b9%d9%85%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%8a%d8%a9/
+12:58:44	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/analytics.js.download (from https://www.top5arabcasinos.com/888casino.html)
+12:59:26	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/wp-embed.min.js.download (from https://www.top5arabcasinos.com/888casino.html)
+12:59:28	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/wp-content/plugins/contact-widgets/assets/fonts/fontawesome-webfont.woff2?v=4.7.0 (from https://www.top5arabcasinos.com/الكازينو-المباشر/?amp)
+12:59:29	Warning: 	HTML file (813 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/?p=1348
+12:59:30	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1348
+12:59:30	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1348 to https://www.top5arabcasinos.com/marina-bay-sands-casino/
+12:59:30	Warning: 	HTML file (1163 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/?p=1107
+12:59:31	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1107
+12:59:31	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1107 to https://www.top5arabcasinos.com/%d9%87%d9%84-%d9%87%d9%86%d8%a7%d9%83-%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88-%d9%83%d8%b1%d9%88%d8%b2-%d9%84%d9%84%d8%a7%d8%b9%d8%a8%d9%8a-%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac-%d8%a7%d9%84%d8%b9%d8%b1/
+12:59:31	Warning: 	HTML file (941 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/?p=1053
+12:59:32	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1053
+12:59:32	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1053 to https://www.top5arabcasinos.com/%d9%83%d9%8a%d9%81-%d8%aa%d9%84%d8%b9%d8%a8-%d8%a8%d9%84%d8%a7%d9%83-%d8%ac%d8%a7%d9%83/
+12:59:32	Warning: 	HTML file (901 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/?p=1040
+12:59:34	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1040
+12:59:34	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1040 to https://www.top5arabcasinos.com/%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88-%d8%b1%d9%88%d9%8a%d8%a7%d9%84/
+12:59:34	Warning: 	HTML file (1137 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/?p=1033
+12:59:35	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=1033
+12:59:35	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=1033 to https://www.top5arabcasinos.com/%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d8%a3%d9%8f%d9%81%d8%b6%d9%91%d9%90%d9%84-%d8%a7%d9%84%d9%84%d8%b9%d8%a8-%d9%81%d9%8a-%d9%84%d8%a7%d9%8a%d9%81-%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88%d8%9f/
+12:59:35	Warning: 	HTML file (937 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/?p=965
+12:59:36	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=965
+12:59:36	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=965 to https://www.top5arabcasinos.com/%d9%83%d9%8a%d9%81-%d8%aa%d9%84%d8%b9%d8%a8-%d8%a7%d9%84%d8%b1%d9%88%d9%84%d9%8a%d8%aa/
+12:59:36	Warning: 	HTML file (961 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/?p=885
+12:59:37	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=885
+12:59:37	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=885 to https://www.top5arabcasinos.com/%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae-%d8%a7%d9%84%d8%b9%d8%a7%d8%a8-%d8%a7%d9%84%d9%82%d9%85%d8%a7%d8%b1/
+12:59:37	Warning: 	HTML file (899 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/?p=866
+12:59:39	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=866
+12:59:39	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=866 to https://www.top5arabcasinos.com/%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88-%d9%85%d9%88%d8%b3%d9%83%d9%88/
+12:59:39	Warning: 	HTML file (899 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/?p=831
+12:59:41	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=831
+12:59:41	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=831 to https://www.top5arabcasinos.com/%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88-%d8%a7%d9%8a%d9%81%d9%88%d9%86/
+12:59:41	Warning: 	HTML file (1023 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/?p=703
+12:59:42	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=703
+12:59:42	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=703 to https://www.top5arabcasinos.com/%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88%d9%87%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/
+12:59:42	Warning: 	HTML file (1097 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/?p=554
+12:59:43	Warning: 	Moved Permanently for https://www.top5arabcasinos.com/?p=554
+12:59:43	Warning: 	File has moved from https://www.top5arabcasinos.com/?p=554 to https://www.top5arabcasinos.com/%d9%83%d9%8a%d9%81-%d9%86%d9%82%d9%88%d9%85-%d8%a8%d8%aa%d8%b5%d9%86%d9%8a%d9%81-%d9%85%d9%88%d8%a7%d9%82%d8%b9-%d8%a7%d9%84%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88%d8%9f/
+12:59:43	Warning: 	HTML file (69057 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/category/مقالات-الكازينو/page/2/
+12:59:44	Warning: 	HTML file (7784 bytes) retransferred due to lack of cache: https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/saved_resource.html
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/POST (from https://connect.facebook.net/en_US/fbevents.js)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/wp-content/themes/pokatheme/css/owl.video.play.png (from https://www.top5arabcasinos.com/wp-content/themes/pokatheme/css/styles-vendor.css?ver=3.2.0)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/fonts/dashicons.eot?50db0456fde2a241f005968eede3f987 (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/dashicons.min.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/fonts/dashicons.ttf?50db0456fde2a241f005968eede3f987 (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/dashicons.min.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/fonts/fontawesome-webfont.eot?v=4.7.0 (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/font-awesome.min.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/fonts/fontawesome-webfont.eot? (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/font-awesome.min.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/fonts/fontawesome-webfont.woff2?v=4.7.0 (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/font-awesome.min.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/fonts/fontawesome-webfont.woff?v=4.7.0 (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/font-awesome.min.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/fonts/fontawesome-webfont.ttf?v=4.7.0 (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/font-awesome.min.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/fonts/fontawesome-webfont.svg?v=4.7.0 (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/font-awesome.min.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/images/insert_link.png (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/ewd-ufaq-styles.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/images/Thumbs-up-icon.png (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/ewd-ufaq-styles.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/images/Thumbs-down-icon.png (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/ewd-ufaq-styles.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/fonts/ewd-toggle-icon.eot (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/ewd-ufaq-styles.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/fonts/ewd-toggle-icon.woff2 (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/ewd-ufaq-styles.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/fonts/ewd-toggle-icon.woff (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/ewd-ufaq-styles.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/fonts/ewd-toggle-icon.ttf (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/ewd-ufaq-styles.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/fonts/ewd-toggle-icon.svg (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/ewd-ufaq-styles.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/fonts/ez-toc-icomoon.eot?-5j7dhv (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/style.min.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/fonts/ez-toc-icomoon.eot? (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/style.min.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/fonts/ez-toc-icomoon.ttf?-5j7dhv (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/style.min.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/fonts/ez-toc-icomoon.woff?-5j7dhv (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/style.min.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/fonts/ez-toc-icomoon.svg?-5j7dhv (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/style.min.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/owl.video.play.png (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/styles-vendor.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/images/bg-header.jpg (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/styles.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/images/bg-header-2.jpg (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/styles.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/images/bg-header-3.jpg (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/styles.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/images/bg-fullscreen.jpg (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/styles.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/images/icons/angle-down.svg (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/styles.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/images/icons/angle-right.svg (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/styles.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/modules/carousel/images/arrows.png (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/jetpack-rtl.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/modules/carousel/images/arrows-2x.png (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/jetpack-rtl.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/modules/carousel/images/carousel-sprite.png?5 (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/jetpack-rtl.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/modules/carousel/images/carousel-sprite-2x.png?5 (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/jetpack-rtl.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/modules/shortcodes/img/slideshow-controls.png (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/jetpack-rtl.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/modules/shortcodes/img/slideshow-controls-2x.png (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/jetpack-rtl.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/modules/shortcodes/images/slide-nav.png (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/jetpack-rtl.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/modules/shortcodes/images/expand.png (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/jetpack-rtl.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/modules/shortcodes/images/collapse.png (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/jetpack-rtl.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/images/ie-upgrade-note.gif (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/admin-bar-v2-rtl.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/Noticons.eot? (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/noticons.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/Noticons.ttf (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/noticons.css)
+12:59:46	Error: 	"Not Found" (404) at link https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/Noticons.svg (from https://www.top5arabcasinos.com/888 Casino - Exclusive VIP $1,000 Bonus For Casino Players From GCC_files/noticons.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 45 seconds : 717 links scanned, 614 files written (56071782 bytes overall) [51830379 bytes received at 73518 bytes/sec], 13722822 bytes transferred using HTTP compression in 275 files, ratio 24%, 5.3 requests per connection
+(54 errors, 219 warnings, 0 messages)

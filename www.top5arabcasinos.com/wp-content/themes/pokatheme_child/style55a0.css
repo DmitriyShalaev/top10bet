@@ -1,0 +1,39 @@
+/*
+ Theme Name:   PokaTheme Child
+ Theme URI:    https://pokatheme.com
+ Description:  PokaTheme Child
+ Author:       PokaTheme
+ Author URI:   https://pokatheme.com
+ Template:     pokatheme
+ Version:      1.0.1
+ Tags:         
+ Text Domain:  poka-child
+*/
+
+/* ==========================================================================
+   Place your styles here
+   ========================================================================== */
+
+
+/* ==========================================================================
+   Responsive steps
+   ========================================================================== */
+/* Large desktops */
+@media (max-width: 1199px) {
+    
+}
+
+/* Tablet */
+@media (max-width: 991px) {
+    
+}
+
+/* Mobile */
+@media (max-width: 767px) {
+    
+}
+
+/* Small mobile */
+@media (max-width: 575px) {
+    
+}

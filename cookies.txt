@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.facebook.com	TRUE	/	FALSE	1999999999	fr	0BB1akPwqsKtpDnaj..BfbbzY...1.0.BfbbzY.
+www.top5arabcasinos.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+
